@@ -1,3 +1,6 @@
 ** test code for coding together
 first, make a new branch by visual studio code text
 second, make a second branch to make a revision
+third, HI! how are you?
+fourth, fine, thank you, and you?
+fifth, fifty-fifty!
